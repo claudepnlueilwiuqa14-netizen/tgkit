@@ -1,0 +1,6 @@
+# tg.local.json
+tg_session*
+tg.out/
+__pycache__/
+*.session
+*.session-journal
